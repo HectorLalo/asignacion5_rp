@@ -1,0 +1,18 @@
+{
+  "source": "UCI Connectionist Bench Sonar (original)",
+  "sha256": "e90434cdbf00fcf93ffa911fe447ae25606979658e60f1d32e155c3b5240234d",
+  "n": 208,
+  "rocks": 97,
+  "mines": 111,
+  "outer_cv": "StratifiedKFold(10,shuffle=True,random_state=42)",
+  "minority_ratio_train": 0.1,
+  "note": "Las pruebas conservan la prevalencia original (~53% minas); sin prueba 95:5.",
+  "noise": "5% del entrenamiento: gaussiano 2.5 desviaciones, sin invertir etiquetas",
+  "costs": {
+    "false_negative": 10.0,
+    "false_positive": 1
+  },
+  "cm_and_one_step": "Inferencia transductiva por lote; One-Step es adaptación con Θ fija.",
+  "consensus_count": 0,
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]"
+}

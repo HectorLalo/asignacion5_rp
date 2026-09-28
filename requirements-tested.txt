@@ -1,0 +1,7 @@
+# Versiones de la ejecución entregada (Python 3.12)
+numpy==2.3.5
+scipy==1.17.0
+scikit-learn==1.8.0
+matplotlib==3.10.8
+reportlab==4.4.9
+pillow==12.3.0

@@ -1,0 +1,81 @@
+﻿model,fold,metric,difference
+Direct-CS-KNN,1,balanced_accuracy,0.2727272727272727
+Direct-CS-KNN,2,balanced_accuracy,0.1227272727272728
+Direct-CS-KNN,3,balanced_accuracy,0.06363636363636371
+Direct-CS-KNN,4,balanced_accuracy,0.21818181818181814
+Direct-CS-KNN,5,balanced_accuracy,0.22272727272727277
+Direct-CS-KNN,6,balanced_accuracy,0.22272727272727277
+Direct-CS-KNN,7,balanced_accuracy,0.26363636363636367
+Direct-CS-KNN,8,balanced_accuracy,0.04166666666666663
+Direct-CS-KNN,9,balanced_accuracy,0.21717171717171713
+Direct-CS-KNN,10,balanced_accuracy,0.30808080808080807
+Distances-CS-KNN,1,balanced_accuracy,-0.09090909090909094
+Distances-CS-KNN,2,balanced_accuracy,-0.045454545454545414
+Distances-CS-KNN,3,balanced_accuracy,0.0
+Distances-CS-KNN,4,balanced_accuracy,-0.09090909090909094
+Distances-CS-KNN,5,balanced_accuracy,-0.045454545454545414
+Distances-CS-KNN,6,balanced_accuracy,-0.045454545454545414
+Distances-CS-KNN,7,balanced_accuracy,0.0
+Distances-CS-KNN,8,balanced_accuracy,-0.16666666666666663
+Distances-CS-KNN,9,balanced_accuracy,0.05555555555555558
+Distances-CS-KNN,10,balanced_accuracy,0.05555555555555558
+CM-KNN,1,balanced_accuracy,0.036363636363636376
+CM-KNN,2,balanced_accuracy,0.0
+CM-KNN,3,balanced_accuracy,0.09090909090909094
+CM-KNN,4,balanced_accuracy,0.0
+CM-KNN,5,balanced_accuracy,0.0
+CM-KNN,6,balanced_accuracy,0.045454545454545525
+CM-KNN,7,balanced_accuracy,0.18181818181818188
+CM-KNN,8,balanced_accuracy,0.0
+CM-KNN,9,balanced_accuracy,0.045454545454545414
+CM-KNN,10,balanced_accuracy,0.2727272727272727
+One-Step adaptado,1,balanced_accuracy,-0.09090909090909094
+One-Step adaptado,2,balanced_accuracy,-0.045454545454545414
+One-Step adaptado,3,balanced_accuracy,0.0
+One-Step adaptado,4,balanced_accuracy,-0.09090909090909094
+One-Step adaptado,5,balanced_accuracy,-0.045454545454545414
+One-Step adaptado,6,balanced_accuracy,0.0
+One-Step adaptado,7,balanced_accuracy,0.0
+One-Step adaptado,8,balanced_accuracy,-0.08333333333333326
+One-Step adaptado,9,balanced_accuracy,0.0
+One-Step adaptado,10,balanced_accuracy,0.0
+Direct-CS-KNN,1,tmc,-60.0
+Direct-CS-KNN,2,tmc,-57.0
+Direct-CS-KNN,3,tmc,-74.0
+Direct-CS-KNN,4,tmc,-68.0
+Direct-CS-KNN,5,tmc,-59.0
+Direct-CS-KNN,6,tmc,-59.0
+Direct-CS-KNN,7,tmc,-78.0
+Direct-CS-KNN,8,tmc,-47.0
+Direct-CS-KNN,9,tmc,-59.0
+Direct-CS-KNN,10,tmc,-79.0
+Distances-CS-KNN,1,tmc,-80.0
+Distances-CS-KNN,2,tmc,-90.0
+Distances-CS-KNN,3,tmc,-100.0
+Distances-CS-KNN,4,tmc,-80.0
+Distances-CS-KNN,5,tmc,-90.0
+Distances-CS-KNN,6,tmc,-90.0
+Distances-CS-KNN,7,tmc,-100.0
+Distances-CS-KNN,8,tmc,-71.0
+Distances-CS-KNN,9,tmc,-102.0
+Distances-CS-KNN,10,tmc,-102.0
+CM-KNN,1,tmc,-28.0
+CM-KNN,2,tmc,0.0
+CM-KNN,3,tmc,-20.0
+CM-KNN,4,tmc,0.0
+CM-KNN,5,tmc,0.0
+CM-KNN,6,tmc,-10.0
+CM-KNN,7,tmc,-40.0
+CM-KNN,8,tmc,0.0
+CM-KNN,9,tmc,-10.0
+CM-KNN,10,tmc,-60.0
+One-Step adaptado,1,tmc,20.0
+One-Step adaptado,2,tmc,10.0
+One-Step adaptado,3,tmc,0.0
+One-Step adaptado,4,tmc,20.0
+One-Step adaptado,5,tmc,10.0
+One-Step adaptado,6,tmc,0.0
+One-Step adaptado,7,tmc,0.0
+One-Step adaptado,8,tmc,20.0
+One-Step adaptado,9,tmc,0.0
+One-Step adaptado,10,tmc,0.0

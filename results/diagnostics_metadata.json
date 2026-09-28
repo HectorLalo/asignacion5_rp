@@ -1,0 +1,10 @@
+{
+  "positive_class": "M=1",
+  "n_predictions_per_model": 208,
+  "n_folds": 10,
+  "auc": "media aritmetica del AUC exacto en cada pliegue; no area de curva media ni AUC de scores agrupados",
+  "roc_mean": "interpolacion de TPR en 501 valores FPR [0,1]; extremos (0,0) y (1,1)",
+  "spread": "DE muestral (ddof=1). No IC ni prueba de significancia; folds comparten entrenamiento.",
+  "confusion": "conteos sumados; porcentaje por fila (clase real)",
+  "no_threshold_selection": true
+}
